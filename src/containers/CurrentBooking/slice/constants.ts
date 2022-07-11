@@ -1,0 +1,70 @@
+/**
+ *
+ */
+const scope = 'src/containers/CurrentBooking';
+
+/*** */
+export const WebService = {
+  CREATE_APPOINTMENT: 'add_appointment',
+  UPDATE_APPOINTMENT: 'edit_appointment',
+  GET_STAFF_APPOINTMENTS: 'get_staff_appointment',
+  GET_STAFF_AVAILABILTY: 'get_staff_availability',
+  GET_BOOKING_CANCELATION_FEES: 'get_booking_cancellation_fees',
+  CANCEL_APPOINTMENT: 'cancel_appointment',
+};
+
+/*** */
+export const DEFAULT_ACTION = `${scope}/DEFAULT_ACTION`;
+export const SET_SELECTED_CLIENT = `${scope}/SET_SELECTED_CLIENT`;
+export const SET_SELECTED_SERVICE_TYPE = `${scope}/SET_SELECTED_SERVICE_TYPE`;
+export const SET_DATE = `${scope}/SET_DATE`;
+export const SET_DURATION = `${scope}/SET_DURATION`;
+export const SET_NOTES = `${scope}/SET_NOTES`;
+export const SET_SELECTED_STAFF = `${scope}/SET_SELECTED_STAFF`;
+export const SET_SELECTED_STATUS = `${scope}/SET_SELECTED_STATUS`;
+export const SET_ALREADY_BOOKED_MODAL_VISIBILITY = `${scope}/SET_ALREADY_BOOKED_MODAL_VISIBILITY`;
+
+/*** */
+export const ADD_SELECTED_COURSE = `${scope}/ADD_SELECTED_COURSE`;
+export const DELETE_SELECTED_COURSE = `${scope}/DELETE_SELECTED_COURSE`;
+
+/*** */
+export const ADD_SELECTED_SERVICE = `${scope}/ADD_SELECTED_SERVICE`;
+export const DELETE_SELECTED_SERVICE = `${scope}/DELETE_SELECTED_SERVICE`;
+
+/*** */
+export const ADD_SELECTED_PRODUCT = `${scope}/ADD_SELECTED_PRODUCT`;
+export const DELETE_SELECTED_PRODUCT = `${scope}/DELETE_SELECTED_PRODUCT`;
+
+/*** */
+export const CREATE_APPOINTMENT = `${scope}/CREATE_APPOINTMENT`;
+export const CREATE_APPOINTMENT_SUCCESS = `${scope}/CREATE_APPOINTMENT_SUCCESS`;
+export const CREATE_APPOINTMENT_ERROR = `${scope}/CREATE_APPOINTMENT_ERROR`;
+
+/*** */
+export const UPDATE_APPOINTMENT = `${scope}/UPDATE_APPOINTMENT`;
+export const UPDATE_APPOINTMENT_SUCCESS = `${scope}/UPDATE_APPOINTMENT_SUCCESS`;
+export const UPDATE_APPOINTMENT_ERROR = `${scope}/UPDATE_APPOINTMENT_ERROR`;
+
+/*** */
+export const CANCEL_APPOINTMENT = `${scope}/CANCEL_APPOINTMENT`;
+export const CANCEL_APPOINTMENT_SUCCESS = `${scope}/CANCEL_APPOINTMENT_SUCCESS`;
+export const CANCEL_APPOINTMENT_ERROR = `${scope}/CANCEL_APPOINTMENT_ERROR`;
+
+/*** */
+export const GET_BOOKING_CANCELATION_FEES = `${scope}/GET_BOOKING_CANCELATION_FEES`;
+export const GET_BOOKING_CANCELATION_FEES_SUCCESS = `${scope}/GET_BOOKING_CANCELATION_FEES_SUCCESS`;
+export const GET_BOOKING_CANCELATION_FEES_ERROR = `${scope}/GET_BOOKING_CANCELATION_FEES_ERROR`;
+export const SET_SELECTED_CANCELLATION_FEE = `${scope}/SET_SELECTED_CANCELLATION_FEE`;
+
+/*** */
+export const GET_STAFF_APPOINTMENT = `${scope}/GET_STAFF_APPOINTMENT`;
+export const GET_STAFF_APPOINTMENT_SUCCESS = `${scope}/GET_STAFF_APPOINTMENT_SUCCESS`;
+export const GET_STAFF_APPOINTMENT_ERROR = `${scope}/GET_STAFF_APPOINTMENT_ERROR`;
+
+/*** */
+export const GET_STAFF_AVAILABILITY = `${scope}/GET_STAFF_AVAILABILITY`;
+export const GET_STAFF_AVAILABILITY_SUCCESS = `${scope}/GET_STAFF_AVAILABILITY_SUCCESS`;
+export const GET_STAFF_AVAILABILITY_ERROR = `${scope}/GET_STAFF_AVAILABILITY_ERROR`;
+
+export const INITIATE_BOOKING = `${scope}/INITIATE_BOOKING`;

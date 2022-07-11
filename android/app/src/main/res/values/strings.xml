@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clinic Software CRM</string>
+
+    <string name="facebook_app_id">274860906873809</string>
+    <string name="fb_login_protocol_scheme">fb274860906873809</string>
+    <string name="facebook_client_token">5d29cfdadfc5f580bde26e94cf20157b</string>
+
+</resources>

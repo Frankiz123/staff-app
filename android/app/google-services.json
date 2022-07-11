@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "298030132448",
+    "firebase_url": "https://cs-bk-cs.firebaseio.com",
+    "project_id": "cs-bk-cs",
+    "storage_bucket": "cs-bk-cs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298030132448:android:591ec8a8c64e5cb5a07485",
+        "android_client_info": {
+          "package_name": "com.clinicsoftwarecrm.staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298030132448-ou9cfa766vlqcjr6hrvhj841edp4k67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxU9N_J7Df5f9oR87sbjeYkUtCwYCaFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298030132448-d8593kojq8l8skeg327qk5sn7j837c14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298030132448-cku1j63s0ef1qfi0flv3479cqvvda9mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clinicSoftwareCRMStaff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298030132448:android:0b98608b5fae36ada07485",
+        "android_client_info": {
+          "package_name": "com.clinicsoftwarecrmstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298030132448-ou9cfa766vlqcjr6hrvhj841edp4k67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxU9N_J7Df5f9oR87sbjeYkUtCwYCaFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298030132448-d8593kojq8l8skeg327qk5sn7j837c14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298030132448-cku1j63s0ef1qfi0flv3479cqvvda9mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clinicSoftwareCRMStaff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298030132448:android:8cf0803a63fd3b93a07485",
+        "android_client_info": {
+          "package_name": "com.kleisurerntheme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298030132448-lknuvb0b9bid1447opf4vuug6h642a3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kleisurerntheme",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "298030132448-ou9cfa766vlqcjr6hrvhj841edp4k67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxU9N_J7Df5f9oR87sbjeYkUtCwYCaFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298030132448-d8593kojq8l8skeg327qk5sn7j837c14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298030132448-cku1j63s0ef1qfi0flv3479cqvvda9mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clinicSoftwareCRMStaff"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
